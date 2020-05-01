@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Facility_I": 1639, "Facility_N": "Mount Sinai Hospital - Mount Sinai Hospital of Queens", "Short_Desc": "HOSP", "Descriptio": "Hospital", "Facility_O": "08\/01\/1979", "Facility_A": "25-10 30th Avenue", "Facility_1": null, "Facility_C": "Long Island City", "Facility_S": "New York", "Facility_Z": "11102", "Facility_P": 2147483647, "Facility_F": null, "Facility_W": null, "Facility_2": 7096, "Facility_3": "Queens", "Regional_O": 5, "Regional_1": "Metropolitan Area Regional Office - New York City", "Main_Site_": "Mount Sinai Hospital", "Main_Sit_1": 1456, "OperatingC": "7002024H", "OperatorNa": "The Mount Sinai Hospital", "Operator_A": "One Gustave L Levy Place", "Operator_1": null, "Operator_C": "New York", "Operator_S": "New York", "Operator_Z": "10029", "Cooperator": "Mount Sinai Hospitals Group, Inc.", "Cooperat_1": "One Gustave L. Levy Place", "Cooperat_2": null, "Cooperat_3": "New York", "Cooperat_4": "New York", "Cooperat_5": 10029, "Latitude": 40.768269, "Longitude": -73.924461, "Location": "(40.768269, -73.924461)" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -73.924461, 40.768268999999833 ] ] } }
+]
+}
